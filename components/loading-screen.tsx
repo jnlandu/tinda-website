@@ -29,7 +29,7 @@ export default function LoadingScreen() {
       <div className="text-center">
         <div className="relative mb-8">
           <div className="w-32 h-32 bg-white rounded-3xl flex items-center justify-center mx-auto shadow-2xl p-4">
-            <Image src="/images/tinda-logo.png" alt="Tinda" width={120} height={40} className="w-auto h-12" priority />
+            <Image src="/images/icon.png" alt="Tinda" width={120} height={40} className="w-auto h-12" priority />
           </div>
           <div className="absolute inset-0 bg-gradient-to-r from-[#FF6A00] to-[#FF8533] rounded-3xl blur-xl opacity-50 animate-pulse"></div>
         </div>
